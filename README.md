@@ -48,3 +48,30 @@ Screenshot:
 
 ![Screenshot_2024-06-11_14-02-56](https://github.com/Golfinsstd/GSTD-basic-calc/assets/165297153/a9787e2b-5322-4bc7-a476-1dc11783ba06)
 
+
+-
+Como utilizar a calculadora:
+-
+
+Os operadores basicos são:
+ "+" - adição
+ "-" - subtração
+ "*" - multiplicação
+ "/" - divisão
+ 
+-
+digite o calculo a ser realizado da seguinte forma:
+-
+
+-
+Screenshot:
+-
+![Screenshot_2024-06-11_14-07-11](https://github.com/Golfinsstd/GSTD-basic-calc/assets/165297153/1eda7abe-05a5-4d3a-a297-b0bc6ea55078)
+
+Aperte a tecla "enter" e a calculadora ira mostrar o resultado da conta:
+
+-
+Screenshot:
+-
+![Screenshot_2024-06-11_14-12-15](https://github.com/Golfinsstd/GSTD-basic-calc/assets/165297153/b13d79b9-1646-403e-9670-43051a5fae6a)
+
