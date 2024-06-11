@@ -26,7 +26,8 @@ Primeiro,Verifique se o Arquivo pode ser execultado como um programa:
 Screenshot:
 -
 
-![Screenshot_2024-06-11_13-55-53](https://github.com/Golfinsstd/GSTD-basic-calc/assets/165297153/f815e842-d9cc-44a0-a440-98943968d6b6)
+![Screenshot_2024-06-11_13-55-53](https://github.com/Golfinsstd/GSTD-basic-calc/assets/165297153/348a89d5-19e3-4b92-b695-e6e4aacde30c)
+
 
 
 Depois de fazer isso,clique 2 vezes sobre o arquivo "GSTDcalc.sh"
